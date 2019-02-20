@@ -15,5 +15,8 @@ package com.liuyangjun.git;
  * @date 2019年2月20日
  */
 public class Happy {
+	public static void main(String[] args) {
+		System.out.println("Test ...");
+	}
 
 }
